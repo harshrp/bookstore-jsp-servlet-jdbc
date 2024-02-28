@@ -65,3 +65,6 @@ INSERT INTO books (title, author) VALUES
 - Access the application at `http://localhost:8080/bookstore/books`.
 - You'll see a list of books from the database.
 - You can add, update, or delete books using the provided UI.
+
+## License
+This project is licensed under the MIT License
