@@ -62,7 +62,7 @@ INSERT INTO books (title, author) VALUES
 - Deploy the generated WAR file (bookstore-jsp-servlet-jdbc-1.0.war) to a Servlet container like Apache Tomcat.
 
 ## Usage
-- Access the application at `http://localhost:8080/bookstore/books`.
+- Access the application at `http://localhost:8080/bookstore-jsp-servlet-jdbc-1.0/books`.
 - You'll see a list of books from the database.
 - You can add, update, or delete books using the provided UI.
 
